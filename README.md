@@ -37,13 +37,13 @@ The visualizations explore trends in hiring and termination over the years
 ## 📸 Screenshots  
 
 ###  Overview Dashboard  
-![Overview](https://github.com/sofoq/HR-analytics/blob/main/Overview.png)  
+![Overview](https://github.com/sofoq/Tableau_HR-Dashboard/blob/main/Overview.png)  
 
 ### Details Dashboard  
-![Details](https://github.com/sofoq/HR-analytics/blob/main/Details.png)  
+![Details](https://github.com/sofoq/Tableau_HR-Dashboard/blob/main/Details.png)  
 
 ### Details Dashboard  
-![Details](https://github.com/sofoq/HR-analytics/blob/main/Details_1.png)
+![Details](https://github.com/sofoq/Tableau_HR-Dashboard/blob/main/Details_1.png)
 
 
 
