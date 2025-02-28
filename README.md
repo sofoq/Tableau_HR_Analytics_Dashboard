@@ -33,3 +33,22 @@ The visualizations explore trends in hiring and termination over the years
 ## Details Dashboard: 📝
 - A detailed view with multiple filters for deep diving into various data segments, such as department, age, gender, etc. This sheet allows further customization and filtering of the displayed information.
 
+
+## 📸 Screenshots  
+
+###  Overview Dashboard  
+![Overview](https://github.com/sofoq/HR-analytics/blob/main/Overview.png)  
+
+### Details Dashboard  
+![Details](https://github.com/sofoq/HR-analytics/blob/main/Details.png)  
+
+### Details Dashboard  
+![Details](https://github.com/sofoq/HR-analytics/blob/main/Details_1.png)
+
+
+
+**Sofo Qaadze**  
+📧 sqaadze2000@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)  
+
+
