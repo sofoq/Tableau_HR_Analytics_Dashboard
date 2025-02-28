@@ -11,9 +11,9 @@ The visualizations explore trends in hiring and termination over the years
 ## Data Source:
 - **Excel Data File**: Contains detailed employee data including hiring, termination dates, education, performance, salary, gender, and more. 📈
 
-### Overview Dashboard:
+## Overview Dashboard:
 
-## Hiring and Employee Demographics 🧑‍💼
+### Hiring and Employee Demographics 🧑‍💼
 1. **Key Metrics (KPIs)**:
    - Active Employees 👥
    - Total Hired ✅
@@ -30,6 +30,6 @@ The visualizations explore trends in hiring and termination over the years
      - **Barbell Chart**: Displays the average salary by gender and education level, showing salary gaps between genders. 💵
      - **Scatter Plot**: Visualizes salary distribution across ages to identify any trends. 🔍
 
-### Details Dashboard: 📝
+## Details Dashboard: 📝
 - A detailed view with multiple filters for deep diving into various data segments, such as department, age, gender, etc. This sheet allows further customization and filtering of the displayed information.
 
