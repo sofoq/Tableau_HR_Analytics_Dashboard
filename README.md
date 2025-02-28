@@ -21,7 +21,7 @@ The visualizations explore trends in hiring and termination over the years
    - Trends of Hired and Terminated employees over the years 📅.
 
 2. **Charts**:
-   - **Bar Chart**: Shows the total number of hired employees by department. Includes a tooltip for drill-down to view the data by job title. 📊
+   - **Bar Chart**: Shows the total number of hired employees by department. Includes a tooltip for drill-down to view the data by job title.📊
    - **Map**: Displays the total number of hired employees, broken down by state and city. 🌍
    - **Demographics Section**:
      - **Pie Chart**: Shows the total hired employees by gender. 👨‍🦱👩‍🦰
