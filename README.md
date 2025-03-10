@@ -1,4 +1,4 @@
-# HR analytics 📊
+# HR Analytics Dashboard 📊
 
 ## Project Overview:
 This Tableau project visualizes hiring trends and employee demographics based on a dataset containing employee information. The dashboard includes key metrics (KPIs) such as:
