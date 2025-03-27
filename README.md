@@ -44,8 +44,5 @@ The visualizations explore trends in hiring and termination over the years
 
 
 
-**Sofo Qaadze**  
-📧 sqaadze2000@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)  
 
 
