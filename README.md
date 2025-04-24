@@ -8,6 +8,11 @@ This Tableau project visualizes hiring trends and employee demographics based on
 
 The visualizations explore trends in hiring and termination over the years
 
+## 🔗 Live Demo  
+Check out the dashboard here: [HR Analytics Dashboard](https://public.tableau.com/app/profile/sofo.qaadze/viz/Book1_17390261986290/HROVERVIEW)
+
+
+
 ## 📈 Overview Dashboard:
 
 ### 🧑‍💼 Hiring and Employee Demographics 
