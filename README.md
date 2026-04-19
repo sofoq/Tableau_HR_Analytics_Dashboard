@@ -1,4 +1,4 @@
-# HR Analytics Dashboard 📊
+# HR Analytics Dashboard 
 
 ## 🔍 Project Overview:
 This Tableau project visualizes hiring trends and employee demographics based on a dataset containing employee information. The dashboard includes key metrics (KPIs) such as:
@@ -8,21 +8,21 @@ This Tableau project visualizes hiring trends and employee demographics based on
 
 The visualizations explore trends in hiring and termination over the years
 
-## 🔗 Live Demo  
+##  Live Demo  
 Check out the dashboard here: [HR Analytics Dashboard](https://public.tableau.com/app/profile/sofo.qaadze/viz/Book1_17390261986290/HROVERVIEW)
 
 
 
-## 📈 Overview Dashboard:
+##  Overview Dashboard:
 
-### 🧑‍💼 Hiring and Employee Demographics 
+###  Hiring and Employee Demographics 
 1. **Key Metrics (KPIs)**:
    -  Active Employees 
    -  Total Hired 
    -  Total Terminated Employees 
    -  Trends of Hired and Terminated employees over the years.
 
-2. 📊 **Charts**:
+2.  **Charts**:
    -  **Bar Chart**: Shows the total number of hired employees by department. Includes a tooltip for drill-down to view the data by job title.
    -  **Map**: Displays the total number of hired employees, broken down by state and city. 
    - **Demographics Section**:
@@ -32,11 +32,11 @@ Check out the dashboard here: [HR Analytics Dashboard](https://public.tableau.co
      -  **Barbell Chart**: Displays the average salary by gender and education level, showing salary gaps between genders. 
      -  **Scatter Plot**: Visualizes salary distribution across ages to identify any trends. 
 
-## 📝 Details Dashboard: 
+##  Details Dashboard: 
 - A detailed view with multiple filters for deep diving into various data segments, such as department, age, gender, etc. This sheet allows further customization and filtering of the displayed information.
 
 
-## 📸 Screenshots  
+##  Screenshots  
 
 ###  Overview Dashboard  
 ![Overview](https://github.com/sofoq/Tableau_HR-Dashboard/blob/main/Overview.png)  
